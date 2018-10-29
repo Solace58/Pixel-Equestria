@@ -1,0 +1,11 @@
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:300px;height:225px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="http://pixelartmaker.com/art/0c798ef36649f8c.png" alt="" class="GeneratedImage">
